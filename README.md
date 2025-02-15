@@ -21,9 +21,9 @@
 ## 🛠 Tech Stack
 ```yaml
 Languages: C#, JavaScript, HTML, CSS
-Frameworks: .NET 8, React (learning)
-Databases: SQL Server, SQLite
-Other: Git, Clean Architecture, MVC, DAO
+Frameworks: .NET 8,Express.js, React (learning)
+Databases: SQL Server, MySQL
+Other: Node.js, Git, Clean Architecture, MVC, DAO
 ```
 ### **Tools & Platforms**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
