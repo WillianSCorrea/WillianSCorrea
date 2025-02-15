@@ -7,14 +7,15 @@
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+ <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
 </p>
 
 ## 🚀 About Me
-- 🎓 Currently studying **Técnicas de Programação**, learning **Clean Architecture**
+- 🎓 Currently studying **Software development and multiplatforms**, learning **Clean Architecture** e **Node.js**
 - 💻 Working on **BugBiblioteca** & **Sabidos** (Education-focused ODS 4 project)
-- 🔥 Exploring **React, Full Stack Development, and JavaScript**
+- 🔥 Exploring **React, Full Stack Development, and Node.js Frameworks**
 - 📈 Building a **portfolio with impactful projects**
 
 ## 🛠 Tech Stack
@@ -24,6 +25,14 @@ Frameworks: .NET 8, React (learning)
 Databases: SQL Server, SQLite
 Other: Git, Clean Architecture, MVC, DAO
 ```
+### **Tools & Platforms**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<!-- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) -->
+<!-- ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) -->
+
+### **Databases**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<!--![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) -->
 
 ## 📌 Current Projects
 ### 🎓 Sabidos
